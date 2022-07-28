@@ -13,3 +13,6 @@ package.json
 psd
 thumb
 sketch
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
